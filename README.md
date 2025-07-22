@@ -10,7 +10,7 @@ I'm a Bioinformatics MSc student with a background in natural sciences, passiona
 ## 🛠️ Tools & Languages
 
 - 🐍 Python (Pandas, NumPy, scikit-learn, Tensorflow, Seaborn)
-- 🐧 Linux, Bash, HPC cluster usage
+- 🐧 Linux, Bash, HPC cluster usage, SLURM
 - 📊 R (DESeq2, edgeR, limma, ggplot2)
 - 🧬 NGS data: FASTQ → BAM → Counts → DEGs → Pathway Analysis
 - 🧪 Multi-omics Analysis: Data processing and statistical analysis
